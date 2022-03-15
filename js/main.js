@@ -1,13 +1,13 @@
 'use strict';
 window.onload=()=>{
     const list=[
-        ['想像的な','creative','creative.png'],
-        ['恐竜','dinosaur','dinosaur.png'],
-        ['平等','equality','equality.png'],
-        ['爆発','explosion','explosion.png'],
-        ['クラゲ','jerryfish','jerryfish.png'],
-        ['祈る','pray','pray.png'],
-        ['真剣な','serious','serious.png'],
+        ['和訳：想像的な','creative','creative.png'],
+        ['和訳：恐竜','dinosaur','dinosaur.png'],
+        ['和訳：平等','equality','equality.png'],
+        ['和訳：爆発','explosion','explosion.png'],
+        ['和訳：クラゲ','jerryfish','jerryfish.png'],
+        ['和訳：祈る','pray','pray.png'],
+        ['和訳：真剣な','serious','serious.png'],
     ];
     const eng=document.getElementById('eng');
     const entry=document.getElementById('entry');
