@@ -13,8 +13,12 @@ label{
     align-items:center;
  
 }
-#eng,#entry{
+#eng{
+    text-align: center;
     font-size:30px;
+}
+#entry{
+    font-size: 30px;
 }
 #img{
     width:300px;
